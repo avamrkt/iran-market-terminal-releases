@@ -1,0 +1,14 @@
+{
+  "version": "1.22.0",
+  "min_version": "1.18.0",
+  "mandatory": false,
+  "download_url": "https://github.com/USER/iran-market-terminal-releases/releases/download/v1.22.0/update-1.22.0.zip",
+  "sha256": "اینجا_هش_را_بگذار",
+  "size_bytes": 25000000,
+  "notes": [
+    "نسخه 1.22",
+    "دکمه بزرگ‌نمایی بخش‌ها",
+    "نمودار شاخص کل",
+    "رفع جستجو"
+  ]
+}
