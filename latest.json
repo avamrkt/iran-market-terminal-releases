@@ -3,12 +3,12 @@
   "min_version": "1.18.0",
   "mandatory": false,
   "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.27.0/update-1.27.0.zip",
-  "sha256": "2A6F48C124A289C5D762776F706B5B584905035B4A0E54EF7D53001CB6AB7785",
+  "sha256": "CA11FE561EC8F817543F4C099E02EED40EA187996BE7C10C07AB636F86C61F6E",
   "size_bytes": 25000000,
   "notes": [
     "نسخه 1.29",
     "دکمه بزرگ‌نمایی بخش‌ها",
-    "رفع مشکل نمایش نمودار شاخص کل",
-    "تغییر تم دکمه ها به سبز"
+    "بهبود حمایت و مقاومت",
+    "سیستم شب و روز "
   ]
 }
