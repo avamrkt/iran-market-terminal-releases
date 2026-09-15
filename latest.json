@@ -1,12 +1,12 @@
 {
-  "version": "1.29.0",
+  "version": "1.30.0",
   "min_version": "1.18.0",
   "mandatory": false,
-  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.29.0/update-1.29.0.zip",
-  "sha256": "CA11FE561EC8F817543F4C099E02EED40EA187996BE7C10C07AB636F86C61F6E",
+  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.30.0/update-1.30.0.zip",
+  "sha256": "7D7C1CBAE19DA01ECC9C52D267129AE0E5D3D0CB6B4C918200C7A83BAA75AAE1",
   "size_bytes": 25000000,
   "notes": [
-    "نسخه 1.29",
+    "نسخه 1.30",
     "دکمه بزرگ‌نمایی بخش‌ها",
     "بهبود حمایت و مقاومت",
     "سیستم شب و روز "
