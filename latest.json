@@ -1,14 +1,16 @@
 {
-  "version": "1.32.0",
+  "version": "1.34.0",
   "min_version": "1.18.0",
   "mandatory": false,
-  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.32.0/update-1.32.0.zip",
-  "sha256": "B32A3EEE401FE37616DA900AD41877092CDC4054FE9E80714DF3DEEA696F8A11",
-  "size_bytes": 25000000,
+  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.34.0/update-1.34.0.zip",
+  "sha256": "9179AE2F0DA4E89F271AE3E0806349A8645C9079B77121AA19528B84CDA50ABD",
+  "size_bytes": 12345678,
   "notes": [
-    "نسخه 1.32",
-    "دکمه بزرگ‌نمایی بخش‌ها",
-    "بهبود حمایت و مقاومت",
-    "سیستم شب و روز "
+    "نسخه 1.34",
+    "تب‌های بالای صفحه: بازار بورس / بازار اپشن",
+    "تحلیل هوشمند اپشن: پیشنهاد خرید کال/پوت یا صبر، با قرارداد پیشنهادی، هدف و حد خروج",
+    "نمودار سود/زیان و نمای گرافیکی زنجیره با خط قیمت فعلی",
+    "رفع خطای بررسی نسخه و رفع خالی بودن داده اپشن",
+    "محاسبه دقیق‌تر روز تا سررسید با تقویم جلالی"
   ]
 }
