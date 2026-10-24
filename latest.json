@@ -1,12 +1,12 @@
 {
-  "version": "1.36",
+  "version": "1.36.1",
   "min_version": "1.18.0",
   "mandatory": false,
-  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.36/update-1.36.0.zip",
+  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.36.1/update-1.36.1.zip",
   "sha256": "sha256:96548e2794139e932d3539e193ad3da4f21684a19cdf1e6d47fafb55bdcad64a",
   "size_bytes": 17301504,
   "notes": [
-    "نسخه 1.36",
+    "نسخه 1.36.1",
     " اضافه شدن نمودار صفوف خرید و فروش رفع برخی باگها"
   ]
 }
