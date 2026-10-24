@@ -2,7 +2,7 @@
   "version": "1.35",
   "min_version": "1.18.0",
   "mandatory": false,
-  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.35/update-1.35.0.zip",
+  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.36/update-1.36.0.zip",
   "sha256": "sha256:421ce31476bc82d967ba9749b4357b931795ea2fab3f5ea64cb5f32a49491be0",
   "size_bytes": 17301504,
   "notes": [
