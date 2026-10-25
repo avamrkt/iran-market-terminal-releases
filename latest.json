@@ -1,12 +1,13 @@
 {
-  "version": "1.38.0",
-  "min_version": "1.18.0",
+  "version": "1.40.1",
+  "min_version": "1.38.0",
   "mandatory": false,
-  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.38/update-1.38.0.zip",
-  "sha256": "9689b679adff78a6bb748c9302bf1f7ed69d123ea129f43729cdbb790d036067",
-  "size_bytes": 17301504,
+  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.40.1/update-1.40.1.zip",
+  "sha256": "c503bbd3672fadaa97be60b7899765746c09a3b414f130783d5ed1e35966bfbf",
+  "size_bytes": 17482856,
   "notes": [
-    "نسخه 1.38.1",
-    " رفع برخی باگها"
+    "پورتفوی مجازی اختیار در تب بازار اپشن",
+    "خرید/فروش آزمایشی با کارمزد و وجه تضمین واقعی",
+    "افزودن مستقیم پیشنهادها به پورتفو + خرید سهم پایه"
   ]
 }
