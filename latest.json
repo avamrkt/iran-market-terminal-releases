@@ -1,13 +1,12 @@
 {
-  "version": "1.40.2",
-  "min_version": "1.38.0",
-  "mandatory": false,
-  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.40.2/update-1.40.2.zip",
-  "sha256": "69aa9aceca157a58088a986983721288dceff82daf0c03196cf9f2e03530057d",
-  "size_bytes": 17487699,
-  "notes": [
-    "افزایش امنیت نسخه ویندوز با حذف کپی مستقیم سورس پایتون از فایل نصب",
-    "بهینه‌سازی فایل‌های فرانت‌اند و غیرفعال‌سازی Source Map برای دشوارتر شدن بررسی کد",
-    "افزودن راهنمای امنیتی و بهبود فرایند آماده‌سازی نسخه انتشار"
-  ]
+    "version":  "1.40.5",
+    "min_version":  "1.0.0",
+    "mandatory":  false,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.40.5/update-1.40.5.zip",
+    "sha256":  "f4f9d627a0c22203376c2e54f5ce5c4441639c9b1a44210f8747b93fd78cce16",
+    "size_bytes":  17485483,
+    "notes":  [
+                  "Options Filter Lab advanced",
+                  "Build 1.40.5"
+              ]
 }
