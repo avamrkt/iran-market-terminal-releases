@@ -1,12 +1,12 @@
 {
-    "version":  "1.40.7",
-    "min_version":  "1.0.0",
+    "version":  "1.40.9",
+    "min_version":  "1.40.9",
     "mandatory":  false,
     "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.40.9/update-1.40.9.zip",
-    "sha256":  "cad76609ee47310b70a5785f805ccd5d45025601e0010df20778f386346e1295",
+    "sha256":  "82e94514db3764c6e3de589454885f3a02d64c9cbd6d8cfceb5c24f990b7125f",
     "size_bytes":  17488006,
     "notes":  [
-                  "بهبود پورتفو و اقاضه شدن ماشین حساب سرمایه در خرید قرارداد",
-                  "Build 1.40.7"
+                  "بهبود پورتفو و اضافه شدن گزارش بین دو تاریخ دلخواه  و برخی امکانات دیگر",
+                  "Build 1.40.9"
               ]
 }
