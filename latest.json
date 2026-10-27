@@ -1,12 +1,12 @@
 {
-    "version":  "1.40.5",
-    "min_version":  "1.38.0",
+    "version":  "1.40.7",
+    "min_version":  "1.0.0",
     "mandatory":  false,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.40.5/update-1.40.5.zip",
-    "sha256":  "f4f9d627a0c22203376c2e54f5ce5c4441639c9b1a44210f8747b93fd78cce16",
-    "size_bytes":  17485483,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.40.7/update-1.40.7.zip",
+    "sha256":  "cad76609ee47310b70a5785f805ccd5d45025601e0010df20778f386346e1295",
+    "size_bytes":  17488006,
     "notes":  [
-                  "Options Filter Lab advanced",
-                  "Build 1.40.5"
+                  "بهبود پورتفو و اقاضه شدن کاشین حساب سرمایه در خرید قرارداد",
+                  "Build 1.40.7"
               ]
 }
