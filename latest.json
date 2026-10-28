@@ -1,14 +1,14 @@
-
-    "version":  "1.40.11",
-    "min_version":  "1.40.9",
-    "mandatory":  true,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.40.11/update-1.40.11.zip",
-    "sha256":  "c09ee96cf3d30f97c550107bae99a292bd6ed3edfae6dd7b1d8dc2cecfd79a53",
-    "size_bytes":  17490433,
-    "notes":  [
-                  "بهبود عملکرد فیلترهای اپشن",
-                  "بهبود محاسبات حسابداری پورتفو مطابق مقررات بورس تهران ",
-                  "1.40.11"
-              ]
+{
+  "version": "1.40.11",
+  "min_version": "1.40.9",
+  "mandatory": true,
+  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.40.11/update-1.40.11.zip",
+  "sha256": "c09ee96cf3d30f97c550107bae99a292bd6ed3edfae6dd7b1d8dc2cecfd79a53",
+  "size_bytes": 17490433,
+  "notes": [
+    "بهبود عملکرد فیلترهای اپشن",
+    "بهبود محاسبات حسابداری پورتفو مطابق مقررات بورس تهران",
+    "1.40.11"
+  ]
 }
 
