@@ -1,12 +1,14 @@
-{
-    "version":  "1.40.9",
+
+    "version":  "1.40.11",
     "min_version":  "1.40.9",
-    "mandatory":  false,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.40.9/update-1.40.9.zip",
-    "sha256":  "82e94514db3764c6e3de589454885f3a02d64c9cbd6d8cfceb5c24f990b7125f",
-    "size_bytes":  17488006,
+    "mandatory":  true,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.40.11/update-1.40.11.zip",
+    "sha256":  "c09ee96cf3d30f97c550107bae99a292bd6ed3edfae6dd7b1d8dc2cecfd79a53",
+    "size_bytes":  17490433,
     "notes":  [
-                  "بهبود پورتفو و اضافه شدن گزارش بین دو تاریخ دلخواه  و برخی امکانات دیگر",
-                  "Build 1.40.9"
+                  "بهبود عملکرد فیلترهای اپشن",
+                  "بهبود محاسبات حسابداری پورتفو مطابق مقررات بورس تهران ",
+                  "1.40.11"
               ]
 }
+
