@@ -1,13 +1,13 @@
 {
-  "version": "1.41.3",
-  "min_version": "1.40.9",
-  "mandatory": false,
-  "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.41.3/update-1.41.3.zip",
-  "sha256": "2951949b7102b43668e127292a7d87f3ec11670caa9d6b82bc1933e29fdd1bcc",
-  "size_bytes": 17512611,
-  "notes": [
-    "کانورژن و کاوردکال",
-    "Max Pain و PCR و Expected Move",
-    "1.41.3"
-  ]
+    "version":  "1.41.4",
+    "min_version":  "1.40.9",
+    "mandatory":  false,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.41.4/update-1.41.4.zip",
+    "sha256":  "00b782cd1696bdae8fbc69734983517957c04aff3d0e888c6eb20808539ba0fa",
+    "size_bytes":  17515108,
+    "notes":  [
+                  "Mandatory update",
+                  "Build ",
+                  "1.41.4"
+              ]
 }
