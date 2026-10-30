@@ -1,6 +1,6 @@
 {
     "version":  "1.41.6",
-    "min_version":  "1.40.9,
+    "min_version":  "1.40.9",
     "mandatory":  false,
     "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.41.6/update-1.41.6.zip",
     "sha256":  "1a59c6e3bb088261ba1403070ed5934406cdb04aef08235ead5a078cc697d461",
