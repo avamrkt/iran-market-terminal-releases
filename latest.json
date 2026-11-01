@@ -1,13 +1,13 @@
 {
-    "version":  "1.41.6",
-    "min_version":  "1.40.9",
-    "mandatory":  false,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.41.6/update-1.41.6.zip",
-    "sha256":  "1a59c6e3bb088261ba1403070ed5934406cdb04aef08235ead5a078cc697d461",
-    "size_bytes":  17542161,
+    "version":  "1.41.7",
+    "min_version":  "1.41.7",
+    "mandatory":  true,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.41.7/update-1.41.7.zip",
+    "sha256":  "81f54d002f31220be1441c8c846bd1e1ee5269ba5d03f7dfc3298815608cfb56",
+    "size_bytes":  28016044,
     "notes":  [
-                  "بخش «🎯 سیگنال‌های سوئینگ» به بورس تهران اضافه شد",
-                  "Build ",
-                  "1.41.6"
+                  "در پنل 🎯 سیگنال‌های سوئینگ فیلتر جدید «تاریخچهٔ بررسی»:",
+                  "خاموش: دایره مشکی، اعداد 0 و 1 خاکستری تیره (واضح خاموش)",
+                  "روشن: پس‌زمینه سبز درخشان، 0 و 1 سبز"
               ]
 }
