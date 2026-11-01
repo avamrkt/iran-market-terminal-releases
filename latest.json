@@ -1,13 +1,13 @@
 {
-    "version":  "1.41.7",
-    "min_version":  "1.41.7",
+    "version":  "1.41.8",
+    "min_version":  "1.41.8",
     "mandatory":  true,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.41.7/update-1.41.7.zip",
-    "sha256":  "81f54d002f31220be1441c8c846bd1e1ee5269ba5d03f7dfc3298815608cfb56",
-    "size_bytes":  28016044,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.41.8/update-1.41.8.zip",
+    "sha256":  "050cf59be1ea66b2ca877d99fad576ae1b1f954494ab7e126cb3951709bb5377",
+    "size_bytes":  28016132,
     "notes":  [
-                  "در پنل 🎯 سیگنال‌های سوئینگ فیلتر جدید «تاریخچهٔ بررسی»:",
-                  "خاموش: دایره مشکی، اعداد 0 و 1 خاکستری تیره (واضح خاموش)",
-                  "روشن: پس‌زمینه سبز درخشان، 0 و 1 سبز"
+                  "bug fixed",
+                  "add some feature",
+                  "1.41.8"
               ]
 }
