@@ -1,13 +1,13 @@
 {
-    "version":  "1.42.0",
-    "min_version":  "1.41.9",
+    "version":  "1.42.2",
+    "min_version":  "1.42.0",
     "mandatory":  false,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.0/update-1.42.0.zip",
-    "sha256":  "292b65344f49b8de97311b8b55804c975b8ed6407d8e09cba737f85b77b55054",
-    "size_bytes":  28092285,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.2/update-1.42.2.zip",
+    "sha256":  "3d3b3c6ddf85b77214d998378e7a1f158abbd564729048586a624cc923e3c248",
+    "size_bytes":  28096742,
     "notes":  [
-                  "بخش جدید: عرضه اولیه",
-                  "بهبود گرافیکی ",
-                  "1.42.0"
+                  "تغییر در بخش عرضه اولیه و تغییر در بخش صندوق ها ",
+                  "تغییر در بخش شاخص کل",
+                  "1.42.2"
               ]
 }
