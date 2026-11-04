@@ -1,13 +1,13 @@
 {
-    "version":  "1.42.2",
-    "min_version":  "1.42.0",
-    "mandatory":  false,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.2/update-1.42.2.zip",
-    "sha256":  "3d3b3c6ddf85b77214d998378e7a1f158abbd564729048586a624cc923e3c248",
-    "size_bytes":  28096742,
+    "version":  "1.42.5",
+    "min_version":  "1.42.5",
+    "mandatory":  true,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.5/update-1.42.5.zip",
+    "sha256":  "88bb03b2e2e58fa305cb7e670cb74119e7d12c7da3d0e3ee69628de0a91bedeb",
+    "size_bytes":  28260501,
     "notes":  [
-                  "تغییر در بخش عرضه اولیه و تغییر در بخش صندوق ها ",
-                  "تغییر در بخش شاخص کل",
-                  "1.42.2"
+                  "سطح نوسان IV — جدول IV برای همه اعمال × سررسید هر نماد پایه",
+                  "سازنده استراتژی — ترکیب آزاد چند قرارداد + منحنی سود/زیان سررسید + Greeks تجمیعی",
+                  "Greeks زنده در پورتفو — ستون‌های Δ Γ Θ V روی موقعیت‌های باز"
               ]
 }
