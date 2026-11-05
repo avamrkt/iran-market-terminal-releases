@@ -1,13 +1,13 @@
 {
-    "version":  "1.42.6",
-    "min_version":  "1.42.6",
+    "version":  "1.42.7",
+    "min_version":  "1.42.7",
     "mandatory":  true,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.6/update-1.42.6.zip",
-    "sha256":  "230f471a7b3a0645353e7300256b98624248b8cee170a5eeeb5b26bb2086cb47",
-    "size_bytes":  28275822,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.7/update-1.42.7.zip",
+    "sha256":  "544205d65eeb186006295507fdcfbd03270b91f58c66f4b5aca71aa121c65d92",
+    "size_bytes":  28290727,
     "notes":  [
-                  "رفع باگ در  دریافت قیمتها ",
-                  "اضافه شدن تب رتبه‌بندی قراردادها (بازار اپشن) ",
-                  "اضافه شدن Fallback"
+                  "رفع مشکل بارگزاری بخش عرضه اولیه ها",
+                  "بهبود بخش فیلترها",
+                  "1.42.7"
               ]
 }
