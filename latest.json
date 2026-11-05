@@ -1,13 +1,13 @@
 {
-    "version":  "1.42.5",
-    "min_version":  "1.42.5",
+    "version":  "1.42.6",
+    "min_version":  "1.42.6",
     "mandatory":  true,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.5/update-1.42.5.zip",
-    "sha256":  "88bb03b2e2e58fa305cb7e670cb74119e7d12c7da3d0e3ee69628de0a91bedeb",
-    "size_bytes":  28260501,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.6/update-1.42.6.zip",
+    "sha256":  "230f471a7b3a0645353e7300256b98624248b8cee170a5eeeb5b26bb2086cb47",
+    "size_bytes":  28275822,
     "notes":  [
-                  "سطح نوسان IV — جدول IV برای همه اعمال × سررسید هر نماد پایه",
-                  "سازنده استراتژی — ترکیب آزاد چند قرارداد + منحنی سود/زیان سررسید + Greeks تجمیعی",
-                  "Greeks زنده در پورتفو — ستون‌های Δ Γ Θ V روی موقعیت‌های باز"
+                  "رفع باگ در  دریافت قیمتها ",
+                  "اضافه شدن تب رتبه‌بندی قراردادها (بازار اپشن) ",
+                  "اضافه شدن Fallback"
               ]
 }
