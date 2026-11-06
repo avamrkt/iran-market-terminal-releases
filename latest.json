@@ -1,13 +1,13 @@
 {
-    "version":  "1.42.12",
-    "min_version":  "1.42.7",
-    "mandatory":  false,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.12/update-1.42.12.zip",
-    "sha256":  "f245b632e726f0dda1ec0585c6d93c89eaa1f8e2ccb20d16e2b5338a999fedb7",
-    "size_bytes":  28303828,
+    "version":  "1.42.13",
+    "min_version":  "1.42.13",
+    "mandatory":  true,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.13/update-1.42.13.zip",
+    "sha256":  "6c9e78ee64a4eb5745f2a00fed88d446f12e83ae81ad290dd629589d72778397",
+    "size_bytes":  28368203,
     "notes":  [
-                  "امکان اضافه به واچ لیست در کارت نماد و امکان زوم این و زوم اوت در نمودارها",
-                  "بهبود بخش آپشن و افزایش دقت ",
-                  "1.42.12"
+                  "اضافه شدن امداد پورتفو",
+                  "بهبود گرافیک برنامه ",
+                  "1.42.13"
               ]
 }
