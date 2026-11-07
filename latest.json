@@ -1,13 +1,13 @@
 {
-    "version":  "1.42.13",
-    "min_version":  "1.42.13",
+    "version":  "1.42.15",
+    "min_version":  "1.42.15",
     "mandatory":  true,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.13/update-1.42.13.zip",
-    "sha256":  "6c9e78ee64a4eb5745f2a00fed88d446f12e83ae81ad290dd629589d72778397",
-    "size_bytes":  28368203,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.15/update-1.42.15.zip",
+    "sha256":  "1ac50e8fee80cadf0d322aaad65a7dd218a17afd833a2281a6c7ad0ac735d917",
+    "size_bytes":  40818482,
     "notes":  [
-                  "اضافه شدن امداد پورتفو",
-                  "بهبود گرافیک برنامه ",
-                  "1.42.13"
+                  "بهبود گزینه امداد پورتفو ",
+                  "اصلاح نمایش وضعیت بازار ",
+                  "1.42.15"
               ]
 }
