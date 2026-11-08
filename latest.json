@@ -1,13 +1,13 @@
 {
-    "version":  "1.42.17",
-    "min_version":  "1.42.17",
+    "version":  "1.42.18",
+    "min_version":  "1.42.18",
     "mandatory":  true,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.17/update-1.42.17.zip",
-    "sha256":  "f65807fe3fa80bd37b27aae153ad28b7061febddd31dc26f34a4b9687432f853",
-    "size_bytes":  40826847,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.18/update-1.42.18.zip",
+    "sha256":  "e24ea54acf06e20a74811cc3293c48d26c3c9ad0136e4a02986a57aa251c0f89",
+    "size_bytes":  40968283,
     "notes":  [
-                  "تکمیل کامل بخش صندوق ها",
-                  "بهبود فنی بخش آپشن",
-                  "بهبود محاسبات ریاضی در بخش امداد پورتفو"
+                  "قالب‌های آماده استراتژی",
+                  "تنظیمات مرکزی در بخش آپشن و اسکنر بازنویسی‌شده ",
+                  " نسخه آخر 1.42.18"
               ]
 }
