@@ -1,13 +1,13 @@
 {
-    "version":  "1.42.18",
-    "min_version":  "1.42.18",
+    "version":  "1.42.20",
+    "min_version":  "1.42.20",
     "mandatory":  true,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.18/update-1.42.18.zip",
-    "sha256":  "e24ea54acf06e20a74811cc3293c48d26c3c9ad0136e4a02986a57aa251c0f89",
-    "size_bytes":  40968283,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.20/update-1.42.20.zip",
+    "sha256":  "0f5a51a3efc7926a102bb69955ef8564a66f3752d93edf07d060e0525d15605d",
+    "size_bytes":  40980515,
     "notes":  [
-                  "قالب‌های آماده استراتژی",
-                  "تنظیمات مرکزی در بخش آپشن و اسکنر بازنویسی‌شده ",
-                  " نسخه آخر 1.42.18"
+                  "تغییر در رابط اسکنر",
+                  "تغییر اساسی در منطق 💼 پورتفوی مجازی و خرید از پیشنهاد سود",
+                  "اضافه شدن دو استراتزی جدید و طراحی جدید و تست "
               ]
 }
