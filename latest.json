@@ -1,13 +1,13 @@
 {
-    "version":  "1.42.20",
-    "min_version":  "1.42.20",
+    "version":  "1.42.24",
+    "min_version":  "1.42.24",
     "mandatory":  true,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.20/update-1.42.20.zip",
-    "sha256":  "0f5a51a3efc7926a102bb69955ef8564a66f3752d93edf07d060e0525d15605d",
-    "size_bytes":  40980515,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.24/update-1.42.24.zip",
+    "sha256":  "26d8bff5bea1cad356709e149378fef15ee745dc6cc0e59945149f1efc6305fe",
+    "size_bytes":  41067808,
     "notes":  [
-                  "تغییر در رابط اسکنر",
-                  "تغییر اساسی در منطق 💼 پورتفوی مجازی و خرید از پیشنهاد سود",
-                  "اضافه شدن دو استراتزی جدید و طراحی جدید و تست "
+                  "وضعیت فردا",
+                  "پنج موتور هوشمند با یادگیری ماشینی برای بهبود",
+                  "1.42.24"
               ]
 }
