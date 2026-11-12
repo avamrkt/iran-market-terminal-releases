@@ -1,13 +1,14 @@
 {
-    "version":  "1.42.24",
-    "min_version":  "1.42.24",
-    "mandatory":  true,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.24/update-1.42.24.zip",
-    "sha256":  "26d8bff5bea1cad356709e149378fef15ee745dc6cc0e59945149f1efc6305fe",
-    "size_bytes":  41067808,
-    "notes":  [
-                  "وضعیت فردا",
-                  "پنج موتور هوشمند با یادگیری ماشینی برای بهبود",
-                  "1.42.24"
-              ]
+    "version": "1.42.32",
+    "min_version": "1.42.32",
+    "mandatory": true,
+    "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.32/update-1.42.32.zip",
+    "sha256": "f4a09c92fed6a2e0b31bbbb3ee69284d7e00e8af4a8739b14652c6b50f3f1915",
+    "size_bytes": 41194958,
+    "notes": [
+        "پنل پیشنهاد خرید سهام (ورود هوشمند)",
+        "رفع باگ تاریخچه نماد (سابقه معاملات TSETMC)",
+        "سطح سخت‌گیری فیلتر + پیام وقتی ست‌آپی پیدا نشود",
+        "اسکن تا ۴۸۰ نماد با شمارش زنده"
+    ]
 }
