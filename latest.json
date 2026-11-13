@@ -1,14 +1,13 @@
 {
-    "version": "1.42.32",
-    "min_version": "1.42.32",
-    "mandatory": true,
-    "download_url": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.42.32/update-1.42.32.zip",
-    "sha256": "f4a09c92fed6a2e0b31bbbb3ee69284d7e00e8af4a8739b14652c6b50f3f1915",
-    "size_bytes": 41194958,
-    "notes": [
-        "پنل پیشنهاد خرید سهام (ورود هوشمند)",
-        "رفع باگ تاریخچه نماد (سابقه معاملات TSETMC)",
-        "سطح سخت‌گیری فیلتر + پیام وقتی ست‌آپی پیدا نشود",
-        "اسکن تا ۴۸۰ نماد با شمارش زنده"
-    ]
+    "version":  "1.43.1",
+    "min_version":  "1.43.1",
+    "mandatory":  true,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.1/update-1.43.1.zip",
+    "sha256":  "f9bb85e6f9d9dfdfa095ea2d36b77bd73b1dce15091f5ac395fbc6f4d1320503",
+    "size_bytes":  41196391,
+    "notes":  [
+                  "بهبود نمایش و خوانایی اعداد در برخی بخش‌ها در تم روز.",
+                  "اصلاح و بهینه‌سازی سیستم انتخاب فیلتر در بخش استراتژی‌ها.",
+                  "1.43.1"
+              ]
 }
