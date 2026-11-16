@@ -1,13 +1,13 @@
 {
-    "version":  "1.43.1",
-    "min_version":  "1.43.1",
+    "version":  "1.43.7",
+    "min_version":  "1.43.7",
     "mandatory":  true,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.1/update-1.43.1.zip",
-    "sha256":  "f9bb85e6f9d9dfdfa095ea2d36b77bd73b1dce15091f5ac395fbc6f4d1320503",
-    "size_bytes":  41196391,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.7/update-1.43.7.zip",
+    "sha256":  "49ca4a28d2fa14e16dc3c271476a7e592dc9044a70352e53d07ea9e5592a93d7",
+    "size_bytes":  41253373,
     "notes":  [
-                  "بهبود نمایش و خوانایی اعداد در برخی بخش‌ها در تم روز.",
-                  "اصلاح و بهینه‌سازی سیستم انتخاب فیلتر در بخش استراتژی‌ها.",
-                  "1.43.1"
+                  "اضافه شدن استراتژی های متعدد در بازار آپشن",
+                  "آپدیت بخش های مختلف بازار آپشن",
+                  "1.43.7"
               ]
 }
