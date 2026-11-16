@@ -1,13 +1,13 @@
 {
-    "version":  "1.43.7",
-    "min_version":  "1.43.7",
+    "version":  "1.43.10",
+    "min_version":  "1.43.10",
     "mandatory":  true,
-    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.7/update-1.43.7.zip",
-    "sha256":  "49ca4a28d2fa14e16dc3c271476a7e592dc9044a70352e53d07ea9e5592a93d7",
-    "size_bytes":  41253373,
+    "download_url":  "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.10/update-1.43.10.zip",
+    "sha256":  "53c2e73065e4c4b431cc2a790e92c315965aa34a7467ef112377aafe8c15f5be",
+    "size_bytes":  41253078,
     "notes":  [
-                  "اضافه شدن استراتژی های متعدد در بازار آپشن",
-                  "آپدیت بخش های مختلف بازار آپشن",
-                  "1.43.7"
+                  "حل برخی باگها",
+                  "رفع مشکلات در دریافت دیتا ",
+                  "1.43.10"
               ]
 }
