@@ -1,1 +1,12 @@
+{
+  "versionCode": 14317,
+  "versionName": "1.43.17",
+  "mandatory": true,
+  "notes": "اضافه شدن تحلیل هوشمند قرارداد و اضافه شدن بخش نوسانگیری هوشمند",
+  "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.17/app-release.apk",
+  "sha256": "70225f15cb4c352223ae4f21816efd62731c9a61f210c31a9314d0931437d753",
+  "sizeBytes": 3787786,
+  "packageName": "com.avamrkt.iranmarket",
+  "minSdk": 24
+}
 
