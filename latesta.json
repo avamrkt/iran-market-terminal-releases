@@ -4,7 +4,7 @@
   "mandatory": false,
   "notes": "نسخه آزمایشی برای تست آپدیت",
   "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.24/app-release.apk",
-  "sha256": "C3C8993CD6DE4A4BE36E43D539154287B3F655B8EFA722B2180E3B63B03D01B2",
+  "sha256": "c3c8993cd6de4a4be36e43d539154287b3f655b8efa722b2180e3b63b03d01b2",
   "sizeBytes": 3789414,
   "packageName": "com.avamrkt.iranmarket",
   "minSdk": 24
