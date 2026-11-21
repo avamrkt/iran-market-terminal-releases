@@ -3,7 +3,7 @@
   "versionName": "1.43.24",
   "mandatory": false,
   "notes": "نسخه آزمایشی برای تست آپدیت",
-  "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.23/app-release.apk",
+  "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.24/app-release.apk",
   "sha256": "C3C8993CD6DE4A4BE36E43D539154287B3F655B8EFA722B2180E3B63B03D01B2",
   "sizeBytes": 3789414,
   "packageName": "com.avamrkt.iranmarket",
