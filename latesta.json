@@ -4,7 +4,7 @@
   "mandatory": true,
   "notes": "افزایش نماد در اسکنر هوشمند و افزایش نمادهای عرضه اولیه و تغییر در نوسانگیری اختیار",
   "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.22/app-release.apk",
-  "sha256": "D70A743D13E7ED94D3D67B522B3BBD57D7B277FD57BAA42EC4A38E3B052534AF",
+  "sha256": "d70a743d13e7ed94d3d67b522b3bbd57d7b277fd57baa42ec4a38e3b052534af",
   "sizeBytes": 3789410,
   "packageName": "com.avamrkt.iranmarket",
   "minSdk": 24
