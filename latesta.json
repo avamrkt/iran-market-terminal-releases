@@ -1,11 +1,11 @@
 {
-  "versionCode": 14323,
-  "versionName": "1.43.23",
+  "versionCode": 14324,
+  "versionName": "1.43.24",
   "mandatory": false,
-  "notes": "رفع خطای گواهی امضا در بروزرسانی از سرور",
+  "notes": "نسخه آزمایشی برای تست آپدیت",
   "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.23/app-release.apk",
-  "sha256": "60c844d8ceadf012c79fa2f9f3c910d8b662a51843ce33fa01088531aa989850",
-  "sizeBytes": 3789410,
+  "sha256": "C3C8993CD6DE4A4BE36E43D539154287B3F655B8EFA722B2180E3B63B03D01B2",
+  "sizeBytes": 3789414,
   "packageName": "com.avamrkt.iranmarket",
   "minSdk": 24
 }
