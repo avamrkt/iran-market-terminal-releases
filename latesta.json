@@ -1,7 +1,7 @@
 {
   "versionCode": 14322,
   "versionName": "1.43.22",
-  "mandatory": true,
+  "mandatory": false,
   "notes": "افزایش نماد در اسکنر هوشمند و افزایش نمادهای عرضه اولیه و تغییر در نوسانگیری اختیار",
   "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.22/app-release.apk",
   "sha256": "d70a743d13e7ed94d3d67b522b3bbd57d7b277fd57baa42ec4a38e3b052534af",
