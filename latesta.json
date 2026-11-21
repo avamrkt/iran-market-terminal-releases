@@ -1,12 +1,11 @@
 {
-  "versionCode": 14322,
-  "versionName": "1.43.22",
+  "versionCode": 14323,
+  "versionName": "1.43.23",
   "mandatory": false,
-  "notes": "افزایش نماد در اسکنر هوشمند و افزایش نمادهای عرضه اولیه و تغییر در نوسانگیری اختیار",
-  "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.22/app-release.apk",
-  "sha256": "d70a743d13e7ed94d3d67b522b3bbd57d7b277fd57baa42ec4a38e3b052534af",
+  "notes": "رفع خطای گواهی امضا در بروزرسانی از سرور",
+  "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.23/app-release.apk",
+  "sha256": "60c844d8ceadf012c79fa2f9f3c910d8b662a51843ce33fa01088531aa989850",
   "sizeBytes": 3789410,
   "packageName": "com.avamrkt.iranmarket",
   "minSdk": 24
 }
-
