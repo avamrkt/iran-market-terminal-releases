@@ -1,11 +1,11 @@
 {
-  "versionCode": 14324,
-  "versionName": "1.43.24",
+  "versionCode": 14326,
+  "versionName": "1.43.26",
   "mandatory": false,
-  "notes": "نسخه آزمایشی برای تست آپدیت",
-  "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.24/app-release.apk",
-  "sha256": "c3c8993cd6de4a4be36e43d539154287b3f655b8efa722b2180e3b63b03d01b2",
-  "sizeBytes": 3789414,
+  "notes": "آماده سازی زیر ساخت اشتراک",
+  "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.43.26/app-release.apk",
+  "sha256": "4F5252F5E11E6561BD99CC2CF90A201E64D2BA36A8385125221627779DDAEF83",
+  "sizeBytes": 3877290,
   "packageName": "com.avamrkt.iranmarket",
   "minSdk": 24
 }
