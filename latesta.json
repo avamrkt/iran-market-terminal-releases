@@ -2,7 +2,7 @@
   "versionCode": 14600,
   "versionName": "1.46.0",
   "mandatory": false,
-  "notes": "تغییرات اساسی در بخش آپشن",
+  "notes": "حذف پرداخت کافه بازار و اپدیت از کافه بازار",
   "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.46.0/app-release.apk",
   "sha256": "74a545c85c0296b504a95472e790bd8f65315bf7b5de0c977ee9095c2fde8c15",
   "sizeBytes": 3822410,
