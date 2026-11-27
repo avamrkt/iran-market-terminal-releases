@@ -1,11 +1,11 @@
 {
-  "versionCode": 14730,
-  "versionName": "1.47.3",
+  "versionCode": 14800,
+  "versionName": "1.48.0",
   "mandatory": false,
   "notes": "نبض بازار آپشن",
-  "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.47.3/app-release.apk",
-  "sha256": "6c0b5dd8bdfc0b887f452af12bbf548acd14007cfb645f5080cf93b140e53ce3",
-  "sizeBytes": 3988931,
+  "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.48.0/app-release.apk",
+  "sha256": "e933da3dfafcad0d9bfe5f4aae407b785df1e289d970650a22fee677a3ac3cb7",
+  "sizeBytes": 3972503,
   "packageName": "com.avamrkt.iranmarket",
   "minSdk": 24
 }
