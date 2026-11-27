@@ -4,7 +4,7 @@
   "mandatory": false,
   "notes": "نبض بازار آپشن",
   "apkUrl": "https://github.com/avamrkt/iran-market-terminal-releases/releases/download/v1.47.3/app-release.apk",
-  "sha256": "74a545c85c0296b504a95472e790bd8f65315bf7b5de0c977ee9095c2fde8c15",
+  "sha256": "6c0b5dd8bdfc0b887f452af12bbf548acd14007cfb645f5080cf93b140e53ce3",
   "sizeBytes": 3988931,
   "packageName": "com.avamrkt.iranmarket",
   "minSdk": 24
